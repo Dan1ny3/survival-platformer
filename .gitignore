@@ -73,3 +73,27 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+
+# Third-party Unity Asset Store packages (not redistributed)
+/Assets/Fantasy Skybox FREE/
+/Assets/Fantasy Skybox FREE.meta
+/Assets/FantasyEnvironments/
+/Assets/FantasyEnvironments.meta
+/Assets/IgniteCoders/
+/Assets/IgniteCoders.meta
+/Assets/Kevin Iglesias/
+/Assets/Kevin Iglesias.meta
+/Assets/Monsters Creatures Fantasy 2/
+/Assets/Monsters Creatures Fantasy 2.meta
+/Assets/RPG Tiny Hero Duo/
+/Assets/RPG Tiny Hero Duo.meta
+/Assets/YughuesFreeCobbleMaterials/
+/Assets/YughuesFreeCobbleMaterials.meta
+/Assets/Prefabs/
+/Assets/Prefabs.meta/
+
+# Generated / recovery files
+/Assets/Unity.VisualScripting.Generated/
+/Assets/Unity.VisualScripting.Generated.meta
+/Assets/_Recovery/
+/Assets/_Recovery.meta
